@@ -1,0 +1,2 @@
+# lorem.agda
+lorem
