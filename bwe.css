@@ -4,13 +4,13 @@
 <style>
 p.intro::first-letter {
   color: #ff0000;
-  font-size: 12%;
+  font-size: 122%;
 }  
 
 div.ex1 { 
   background-color: lightgreen;
   border: 2px solid black;
-  padding: 15px;
+  padding: 152px;
 }
 
 div.ex2 { 
